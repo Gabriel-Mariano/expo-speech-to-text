@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-speech-to-text",
+    "slug": "expo-speech-to-text",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
