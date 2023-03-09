@@ -2,7 +2,7 @@
 Uma aplicação em expo que utiliza comando de voz  
 
 ## Visão Global
-![screens](https://github.com/Gabriel-Mariano/chocoCloud/blob/main/background-cover.png)
+![screens](https://github.com/Gabriel-Mariano/expo-speech-to-text/blob/main/banner.jpg)
 **Expo-Speech-To-Text** foi construído para testar uma biblioteca javascript que permite receber comando de voz. Essa biblioteca trasforma sua voz em texto.
 Utilizei desta ferramenta para criar uma listar de usuários e filtra-los usando apenas o microfone.
 
